@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+fres {
+color:yellow;
+font-size:200%;
+</style>
+</head>
+<body>
+<fres>ala bala</fres>
+</body>
+</html>
